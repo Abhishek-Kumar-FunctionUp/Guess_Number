@@ -1,8 +1,11 @@
 .wrapper{
   display: flex;
   flex-direction: column;
-  justify-content: center;
+ padding-top: 10vh;
   align-items: center;
+  background-image: url("https://e0.pxfuel.com/wallpapers/305/691/desktop-wallpaper-guess-guess-stock.jpg");
+  height: 100vh;
+  color: white;
 }
 
 input[type="number"] {
